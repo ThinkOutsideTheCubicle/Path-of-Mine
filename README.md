@@ -17,9 +17,3 @@
 	Thanks to the very lightweight Game-Engine named "Godot" this project has been founded. (link below)
 [![Godot Engine](https://img.shields.io/badge/GodotEngine-GithHub-blue.svg?style=plastic)](https://github.com/godotengine)
 [![Godot Engine](https://img.shields.io/badge/GodotEngine-website-blue.svg?style=plastic)](http://www.godotengine.org/)
-
-# Donations/Financial support
-	something you might want to know before you continue:
-	* donating/support financially is appreciated but not required neither necessary for using this software!
-	* if you REALLY wish to do so, click the button below, otherwise keep enjoying!
-[![Donate](https://img.shields.io/badge/support-financially-blue.svg?style=plastic)](https://donorbox.org/path-of-mine)

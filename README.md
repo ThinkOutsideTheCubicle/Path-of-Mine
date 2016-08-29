@@ -3,6 +3,8 @@
 	This repository contains software wich is a project of a currently developed game.
 	
 	You can download and use it freely, because it is licensed through GNU GPLv3.
+	(future content may be licensed differently)
+	
 	This basicly means it is OpenSource and free of charge but is provided as-is without any warrant.
 	(see LICENSE for more informations)
 	

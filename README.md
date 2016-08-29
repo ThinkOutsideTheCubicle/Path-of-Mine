@@ -17,5 +17,6 @@ P.S.: stay tuned for updates! (planned screens and stuff soon!)
 
 ## Background
 Thanks to the very lightweight Game-Engine named "Godot" Path of Mine has been created. (link below)
+
 [![Godot Engine](https://img.shields.io/badge/Godot Engine-GithHub-blue.svg?style=plastic)](https://github.com/godotengine)
 [![Godot Engine](https://img.shields.io/badge/Godot Engine-website-blue.svg?style=plastic)](http://www.godotengine.org/)

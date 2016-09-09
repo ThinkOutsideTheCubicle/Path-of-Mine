@@ -11,8 +11,8 @@ see LICENSE for more informations
 If you wish you can help supporting that project by giving feedback, report issues or bugs.
 
 We hope you will enjoy!
-P.S.: stay tuned for updates! (planned screens and stuff soon!)
 ```
+[![Path of Mine](https://img.shields.io/badge/Path of Mine-screens-blue.svg?style=plastic)](https://www.dropbox.com/sh/rvro5c28kmyz8eq/AAA-0GF4GTXsnscPkOSWjWN1a)
 [![Path of Mine](https://img.shields.io/badge/Path of Mine-FAQ (wiki)-blue.svg?style=plastic)](https://github.com/ThinkOutsideTheCubicle/Path-of-Mine/wiki/Frequently-Asked-Questions-(FAQ))
 
 ## Background

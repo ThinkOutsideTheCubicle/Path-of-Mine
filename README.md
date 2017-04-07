@@ -12,11 +12,11 @@ If you wish you can help supporting that project by giving feedback, report issu
 
 We hope you will enjoy!
 ```
-[![Path of Mine](https://img.shields.io/badge/Path of Mine-screens-blue.svg?style=plastic)](https://www.dropbox.com/sh/rvro5c28kmyz8eq/AAA-0GF4GTXsnscPkOSWjWN1a)
-[![Path of Mine](https://img.shields.io/badge/Path of Mine-FAQ (wiki)-blue.svg?style=plastic)](https://github.com/ThinkOutsideTheCubicle/Path-of-Mine/wiki/Frequently-Asked-Questions-(FAQ))
+[![Path of Mine](https://img.shields.io/badge/PathOfMine-screens-blue.svg?style=plastic)](https://www.dropbox.com/sh/rvro5c28kmyz8eq/AAA-0GF4GTXsnscPkOSWjWN1a)
+[![Path of Mine](https://img.shields.io/badge/PathOfMine-FAQ (wiki)-blue.svg?style=plastic)](https://github.com/ThinkOutsideTheCubicle/Path-of-Mine/wiki/Frequently-Asked-Questions-(FAQ))
 
 ## Background
 Thanks to the very lightweight Game-Engine named "Godot" Path of Mine has been created. (link below)
 
-[![Godot Engine](https://img.shields.io/badge/Godot Engine-GithHub-blue.svg?style=plastic)](https://github.com/godotengine)
-[![Godot Engine](https://img.shields.io/badge/Godot Engine-website-blue.svg?style=plastic)](http://www.godotengine.org/)
+[![Godot Engine](https://img.shields.io/badge/GodotEngine-GithHub-blue.svg?style=plastic)](https://github.com/godotengine)
+[![Godot Engine](https://img.shields.io/badge/GodotEngine-website-blue.svg?style=plastic)](http://www.godotengine.org/)
